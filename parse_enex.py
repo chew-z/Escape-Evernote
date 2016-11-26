@@ -178,15 +178,11 @@ for note in root:
                             # file:/// - macOS
                             target_caption = "![{}]".format(target)
                             # TODO - add option for uploading imgaes to Google Drive, Dropbox etc.
-                            # browsers (with markdown preview) are not allowed to access local files
-                            # so storing images in cloud is safer and more
-                            # universal
+                            # so storing images in cloud is safer and more universal
                             if args.relative_path:
-                                # Xmark plugin for Vim that i am using encodes
-                                # path so I don't have to
-                                target_url = "({})".format(
-                                    target_path).replace("%20", " ")
-                                # target_url = "({})".format(target_path)
+                                target_url = "({})".format(target_path)
+                                # target_url = "({})".format(
+                                #    target_path).replace("%20", " ")
                                 # target_url = "(/{})".format(target_path).replace("%20", " ")
                             else:
                                 target_url = "(file://" + directory + \

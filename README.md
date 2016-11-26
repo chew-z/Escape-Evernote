@@ -51,3 +51,4 @@ Ain't Google scanning your notes right now and connecting with other metadata in
 
 * Large portion of code comes originally from Ian Mortimer's blog - [kicking the evernote habbit](https://ianmorty.co.uk/kicking-the-evernote-habbit.html)
 * I have used this [fork](https://github.com/dougdiego/ever2simple) of popular ever2simple project - [Exporting Evernote to Markdown](https://diego.org/2016/08/31/exporting-evernote-to-markdown/)
+* I like [zzyzx](https://github.com/ambv/zzyzx) for migrating/backing up Apple Notes  - different story

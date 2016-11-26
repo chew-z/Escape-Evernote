@@ -6,6 +6,8 @@ flickr.config
 ######################
 /attachments/
 /__pycache__/
+/_markdown/
+/tmp/
 
 # Logs and databases #
 ######################

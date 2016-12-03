@@ -45,7 +45,7 @@ I have included sample Test.enex file so you can play with it.
 
 * [Evernote migrated to Google Cloud Platform](https://blog.evernote.com/blog/2016/09/13/evernotes-future-cloud/) - so you may have reservations about privacy of your notes.  
 
-Ain't Google scanning your notes right now and connecting with other metadata information about? [They say they don't](https://help.evernote.com/hc/en-us/articles/226885427-FAQ-About-Migration-to-Google-Cloud-Platform). But hey, it's Google right?
+Ain't Google scanning your notes right now and connecting with other metadata information they have about you? [They say they don't](https://help.evernote.com/hc/en-us/articles/226885427-FAQ-About-Migration-to-Google-Cloud-Platform). But hey, it's Google right?
 
 ## Credits and similiar projects
 
